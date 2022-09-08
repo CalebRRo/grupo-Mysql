@@ -1,9 +1,9 @@
 # PDF molde tp1 - Msyql 
 
 
-![pdf molde tp1](./pdf/tp1_diagrama_definitivo.pdf)
+![jpg molde tp1](./pdf/TP1_mysql.jpg)
 
 # PDF molde tp2 - Msyq2 
 
 
-![pdf molde tp2](./pdf/bazar.pdf)
+![jpg molde tp2](./pdf/TP2_mysql.jpg)
